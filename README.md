@@ -1,5 +1,5 @@
 # Thesis
-This is a repository with all the code that I have developed for my thesis
+This repository contains the notebooked used to classify Leukemic B-Lymphoblasts from B-Lympoid Precursor cells
 
 The repository contains three different notebooks: 
 1) Cropping Notebook
