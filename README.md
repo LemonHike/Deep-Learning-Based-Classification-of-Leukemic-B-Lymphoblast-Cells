@@ -17,4 +17,5 @@ This notebook contains the codes used to fine-tune ResNet and DenseNet as descri
 
 ## Results
 The final results show how a simple convolutional neural network, with three convolution layers and one fully connected layer, can classify malignant B-Lymphoblasts from early benign B cell precursors with 82.5% accuracy, 87% precision and 96% specificity.
-Note: a PDF containing a ditailed discussion of the methodologies and the results will be updated soon.
+
+A PDF containing a ditailed discussion of the methodologies and the results will be updated soon.
