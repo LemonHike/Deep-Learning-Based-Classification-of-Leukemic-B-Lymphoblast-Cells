@@ -1,4 +1,4 @@
-# Thesis
+# Scope
 This repository contains the notebooked used to classify Leukemic B-Lymphoblasts from B-Lympoid Precursor cells.
 
 The repository contains three different notebooks: 
